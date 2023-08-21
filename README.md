@@ -1,4 +1,4 @@
-# Image Segmentation Using Deep Learning
+# Survey : Image Segmentation Using Deep Learning
 ![image-classification-vs-object-detection-vs-semantic-segmentation](https://user-images.githubusercontent.com/61357783/162817024-536d1679-8d2a-4999-b7fc-9c985b9a62f2.jpg)
 
    
